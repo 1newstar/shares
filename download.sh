@@ -5,6 +5,12 @@
 
 ## Set the temporary directory to keep downloaded file
 DEST_DIR=$HOME/shares/temp
+export ORACLE_UNQNAME=nsracdb
+export ORACLE_SID=nsracdb1
+export ORACLE_BASE=/u01/app/oracle
+export ORACLE_HOSTNAME=12cnode1.localdomain
+export ORACLE_HOME=/u01/app/oracle/product/12.2.0.1/db_1
+export PATH=$PATH:$ORACLE_HOME/bin
 
 ## Function to handle exception and errors while running the script
 errorReport(){
@@ -108,7 +114,8 @@ echo "##############################"
 ##
 ## Append the rows in the table from flat file to database
 ##
-sqlldr stock/stock@//scan12c:1521/nsdb control=/home/oracle/shares/sqlldr.ctl silent=all
+CMDSQL=`sqlldr stock/stock@scan12c:1521/nsdb control=/home/oracle/shares/sqlldr.ctl silent=all`
+echo "$CMDSQL"
 
 #echo -e "\n"
 echo "##############################"
