@@ -108,7 +108,7 @@ echo "##############################"
 ##
 ## Append the rows in the table from flat file to database
 ##
-sqlldr stock/stock@//192.168.179.113:1521/nsdb control=/home/oracle/shares/sqlldr.ctl silent=all
+sqlldr stock/stock@//scan12c:1521/nsdb control=/home/oracle/shares/sqlldr.ctl silent=all
 
 #echo -e "\n"
 echo "##############################"
