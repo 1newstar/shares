@@ -1,0 +1,55 @@
+
+SQL*Loader: Release 12.2.0.1.0 - Production on Mon Oct 2 18:07:37 2017
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   /home/oracle/shares/sqlldr.ctl
+Data File:      /home/oracle/shares/temp/price.txt
+  Bad File:     /home/oracle/shares/temp/error.txt
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+Silent options: FEEDBACK, ERRORS and DISCARDS
+
+Table SHARESANSAR, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+P_DATE                              FIRST     *   ,       CHARACTER            
+C_NAME                               NEXT     *   ,       CHARACTER            
+C_SYMBOL                             NEXT     *   ,       CHARACTER            
+OPEN_PRICE                           NEXT     *   ,       CHARACTER            
+MAX_PRICE                            NEXT     *   ,       CHARACTER            
+MIN_PRICE                            NEXT     *   ,       CHARACTER            
+CLOSE_PRICE                          NEXT     *   ,       CHARACTER            
+VOL_TRADED                           NEXT     *   ,       CHARACTER            
+
+
+Table SHARESANSAR:
+  153 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 132096 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           153
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Mon Oct 02 18:07:37 2017
+Run ended on Mon Oct 02 18:07:37 2017
+
+Elapsed time was:     00:00:00.08
+CPU time was:         00:00:00.01

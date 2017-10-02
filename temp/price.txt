@@ -1,153 +1,153 @@
-01/10/2017,Agricultural Development Bank Limited,ADBL,446,449,443,448,5132
-01/10/2017,Api Power Company Limited,API,574,579,567,570,1039
-01/10/2017,Arun Finance Limited,ARUN,170,170,170,170,10
-01/10/2017,Arun Kabeli Power Limited,AKPL,340,341,330,340,3344
-01/10/2017,Arun Valley Hydropower Development Company Limited,AHPC,220,220,220,220,50
-01/10/2017,Asian Life Insurance Company Limited,ALICL,1500,1505,1498,1505,2383
-01/10/2017,Bank of Kathmandu Limited,BOKL,443,443,433,434,12120
-01/10/2017,Barun Hydropower Company Limited,BARUN,217,233,217,222,1633
-01/10/2017,Bhargav Bikash Bank Limited,BHBL,276,276,272,272,1080
-01/10/2017,Bishal Bazar Company Limited,BBC,2461,2461,2260,2265,1903
-01/10/2017,Bottlers Nepal (Terai) Limited,BNT,6860,6860,6723,6723,155
-01/10/2017,Butwal Power Company Limited,BPCL,624,624,620,620,595
-01/10/2017,Central Finance Company Limited,CFCL,190,190,187,187,1750
-01/10/2017,Century Commercial Bank Limited,CCBL,229,231,225,227,17968
-01/10/2017,Chhimek Laghubitta Bikas Bank Limited,CBBL,1467,1474,1467,1472,252
-01/10/2017,Chhyangdi Hydropower Company Limited,CHL,169,179,169,175,1151
-01/10/2017,Chilime Hydro power Company Limited,CHCL,801,805,790,800,6536
-01/10/2017,Citizen Investment Trust,CIT,3750,3755,3735,3750,1204
-01/10/2017,Citizens Bank International Limited,CZBIL,305,309,304,306,9836
-01/10/2017,Civil Bank Limited,CBL,227,234,227,230,11710
-01/10/2017,Civil Laghubitta Bittiya Sanstha Limited former ILFCM,CLBSL,1301,1308,1275,1297,152
-01/10/2017,Deprosc Laghubitta Bikas Bank Limited,DDBL,1248,1260,1240,1248,2655
-01/10/2017,Deva Bikas Bank Limited,DBBL,255,263,253,263,18524
-01/10/2017,Dibyashwari Hydropower Company Limited,DHPL,145,150,145,147,1409
-01/10/2017,Everest Bank Limited,EBL,1220,1235,1220,1225,5330
-01/10/2017,Everest Insurance Company Limited,EIC,2680,2690,2679,2680,660
-01/10/2017,Excel Development Bank Limited,EDBL,449,460,443,460,5230
-01/10/2017,First Microfinance Development Bank Limited,FMDBL,865,870,858,870,1680
-01/10/2017,Forward Community Microfinance Bittiya Sanstha Limited,FOWAD,3640,3700,3640,3700,864
-01/10/2017,Gandaki Bikas Bank Limited,GDBL,366,371,366,370,2817
-01/10/2017,Garima Bikas Bank Limited,GBBL,260,263,257,261,3137
-01/10/2017,General Finance Limited,GFL,135,138,135,138,670
-01/10/2017,Global IME Bank Limited,GBIME,384,389,379,381,8700
-01/10/2017,Goodwill Finance Company Limited,GFCL,176,180,174,180,3247
-01/10/2017,Guheyshwori Merchant Bank Fin Limited,GMFIL,264,264,259,262,910
-01/10/2017,Guras Life Insurance Company Limited,GLICL,1067,1068,1036,1041,2737
-01/10/2017,Gurkhas Finance Limited,GUFL,191,191,191,191,31
-01/10/2017,Hamro Bikas Bank Limited,HAMRO,200,200,200,200,750
-01/10/2017,Himalayan Bank Limited,HBL,900,900,890,891,308
-01/10/2017,Himalayan General Insurance Company Limited,HGI,730,745,730,735,652
-01/10/2017,Himalayan Power Partner Limited,HPPL,379,393,379,388,7880
-01/10/2017,ICFC Finance Limited,ICFC,266,275,266,270,1468
-01/10/2017,Jalabidyut Lagani Tatha Bikas Company Limited,HIDCL,177,183,177,180,4650
-01/10/2017,Janaki Finance Limited,JFL,274,274,266,271,1110
-01/10/2017,Janata Bank Nepal Limited,JBNL,254,257,250,252,35558
-01/10/2017,Janautthan Samudayic Laghubitta Bikas Bank Limited,JSLBB,3780,3837,3761,3761,66
-01/10/2017,Jyoti Bikas Bank Limited,JBBL,184,187,183,185,16299
-01/10/2017,Kabeli Bikas Bank Limited,KEBL,385,385,385,385,50
-01/10/2017,Kailash Bikas Bank Limited,KBBL,296,300,294,294,2650
-01/10/2017,Kalika Microcredit Development Bank Limited,KMCDB,1984,2000,1971,1995,949
-01/10/2017,Kamana Sewa Bikas Bank Limited,KSBBL,215,218,214,218,10633
-01/10/2017,Kankai Bikas Bank Limited,KNBL,219,227,219,227,220
-01/10/2017,Karnali Development Bank Limited,KRBL,270,274,270,274,582
-01/10/2017,Khani Khola Hydropower Company Limited,KKHC,164,165,161,164,364
-01/10/2017,Kisan Microfinance Bittiya Sanstha Limited,KMFL,2400,2400,2386,2386,50
-01/10/2017,Kumari Bank Limited,KBL,299,299,294,297,13289
-01/10/2017,Laxmi Bank Limited,LBL,341,341,335,339,2374
-01/10/2017,Laxmi Equity Fund,LEMF,9.92,9.92,9.92,9.92,1500
-01/10/2017,Laxmi Laghubitta Bittiya Sanstha Limited,LLBS,1700,1700,1666,1694,83
-01/10/2017,Laxmi Value Fund-1,LVF1,11.5,11.5,11.27,11.27,25000
-01/10/2017,Life Insurance Company Nepal Limited,LICN,2100,2105,2088,2088,4660
-01/10/2017,Lumbini Bikas Bank Limited,LBBL,210,215,210,212,2972
-01/10/2017,Lumbini General Insurance Limited,LGIL,915,935,910,935,872
-01/10/2017,Machhapuchchhre Bank Limited,MBL,330,330,322,324,4908
-01/10/2017,Mahalaxmi Bikas Bank Limited,MLBL,222,227,222,224,8594
-01/10/2017,Mahila Sahayatra Microfinance Bittiya Sanstha Limited,MSMBS,1112,1114,1093,1094,309
-01/10/2017,Manjushree Finance Limited,MFIL,147,152,147,151,3150
-01/10/2017,Mero Microfinance Bittiya Sanstha Limited,MERO,1710,1719,1676,1719,4029
-01/10/2017,Mirmire Microfinance Development Bank Limited,MMFDB,3000,3050,3000,3050,364
-01/10/2017,Miteri Development Bank Limited,MDB,555,555,541,541,548
-01/10/2017,Mithila Laghu Bitta Bikas Bank Limited,MLBBL,1295,1295,1261,1261,100
-01/10/2017,Muktinath Bikas Bank Limited,MNBBL,615,615,608,614,1491
-01/10/2017,Nabil Bank Limited,NABIL,1265,1265,1251,1264,6134
-01/10/2017,NABIL Bank Limited Promotor Share,NABILP,889,889,868,868,5383
-01/10/2017,Nabil Equity Fund,NEF,10.16,10.2,10.16,10.2,965
-01/10/2017,Nagbeli Microfinance Development Bank Limited,NBBL,3820,3865,3800,3865,1279
-01/10/2017,National Hydro Power Company Limited,NHPC,133,134,132,132,1990
-01/10/2017,National Life Insurance Company Limited,NLICL,1792,1825,1792,1825,1541
-01/10/2017,National Microfinance Bittiya Sanstha Limited,NMFBS,3350,3350,3349,3350,62
-01/10/2017,Naya Nepal Laghubitta Bikas Bank Limited ,NNLB,2798,2798,2735,2735,190
-01/10/2017,Neco Insurance Company Limited,NIL,939,940,925,931,1649
-01/10/2017,Nepal Bangladesh Bank Limited,NBB,330,335,329,331,23569
-01/10/2017,Nepal Bank Limited,NBL,352,356,352,354,10069
-01/10/2017,Nepal Community Development Bank Limited,NCDB,314,316,300,316,3750
-01/10/2017,Nepal Credit & Commercial Bank Limited,NCCB,358,358,349,353,5313
-01/10/2017,Nepal Doorsanchar Company Limited,NTC,710,715,710,715,1570
-01/10/2017,Nepal Grameen Bikas Bank Limited,NGBBL,705,719,705,706,1648
-01/10/2017,Nepal Insurance Company Limited,NICL,1390,1390,1380,1384,140
-01/10/2017,Nepal Investment Bank Limited,NIB,758,765,757,764,42483
-01/10/2017,Nepal Investment Bank Limited Promoter Share,NIBPO,663,674,663,674,11530
-01/10/2017,Nepal Life Insurance Company Limited,NLIC,2000,2005,1995,2000,6128
-01/10/2017,Nepal SBI Bank Limited,SBI,850,854,847,854,2505
-01/10/2017,Nerude Laghubita Bikas Bank Limited,NLBBL,1310,1324,1310,1310,1107
-01/10/2017,Ngadi Group Power Limited,NGPL,228,239,228,237,130
-01/10/2017,NIBL Pragati Fund,NIBLPF,10.01,10.01,10.01,10.01,5050
-01/10/2017,NIBL Samriddhi Fund 1,NIBSF1,12.25,12.25,12,12,3000
-01/10/2017,NIC Asia Bank Limited,NICA,360,360,354,357,5974
-01/10/2017,Nirdhan Utthan Bank Limited,NUBL,2410,2420,2410,2420,1206
-01/10/2017,NLG Insurance Company Limited,NLG,1531,1570,1505,1505,1261
-01/10/2017,NMB Bank Limited,NMB,494,494,482,494,3008
-01/10/2017,NMB Hybrid Fund L- 1,NMBHF1,10.04,10.04,10.04,10.04,3328
-01/10/2017,NMB Microfinance Bittiya Sanstha Limited,NMBMF,2780,2817,2757,2757,359
-01/10/2017,NMB Sulav Investment Fund-1,NMBSF1,12.19,12.29,12,12.29,77000
-01/10/2017,Om Development Bank Limited,ODBL,300,302,299,300,2101
-01/10/2017,Oriental Hotel Limited,OHL,873,873,856,856,167
-01/10/2017,Pokhara Finance Limited,PFL,233,233,230,230,91
-01/10/2017,Prabhu Bank Limited,PRVU,383,390,380,385,5625
-01/10/2017,Prabhu Insurance Company Limited,PRIN,1126,1144,1126,1144,2716
-01/10/2017,Premier Insurance Company Limited,PIC,1665,1665,1665,1665,19
-01/10/2017,Prime Commercial Bank Limited,PCBL,440,440,431,434,18974
-01/10/2017,Prime Life Insurance Company Limited,PLIC,1890,1900,1875,1880,1380
-01/10/2017,Progressive Finance Limited,PROFL,232,232,226,226,655
-01/10/2017,Prudential Insurance Company Limited,PICL,1445,1445,1425,1443,1790
-01/10/2017,Purnima Bikas Bank Limited,PURBL,310,312,310,310,648
-01/10/2017,Rastriya Beema Company Limited,RBCL,15950,15950,15850,15850,30
-01/10/2017,Rastriya Beema Company Limited Promoter Share,RBCLPO,14700,14788,14200,14200,135
-01/10/2017,Reliable Microfinance Bittiya Sanstha Limited,RMFL,2120,2120,2067,2067,249
-01/10/2017,Reliance Finance Limited,RLFL,209,213,209,210,709
-01/10/2017,Ridi Hydropower Development Company Limited,RHPC,164,164,158,163,2045
-01/10/2017,RSDC Laghubitta Bittiya Sanstha Limited,RSDC,1340,1364,1340,1349,960
-01/10/2017,Rural Microfinance Development Centre Limited,RMDC,790,790,781,790,606
-01/10/2017,Sagarmatha Insurance Company Limited,SIC,1685,1689,1657,1657,630
-01/10/2017,Sahayogi Vikas Bank Limited,SBBLJ,320,320,320,320,150
-01/10/2017,Sana Kisan Bikas Bank Limited,SKBBL,1555,1565,1550,1565,1828
-01/10/2017,Sanima Bank Limited,SANIMA,346,350,342,342,14099
-01/10/2017,Sanima Mai Hydropower Limited,SHPC,554,554,525,525,2150
-01/10/2017,Saptakoshi Development Bank Limited,SKDBL,189,193,189,193,126
-01/10/2017,Shangrila Development Bank Limited,SADBL,371,375,371,371,1638
-01/10/2017,Shikhar Insurance Company Limited,SICL,2010,2020,1985,1999,4186
-01/10/2017,Shine Resunga Development Bank Limited,SHINE,415,420,414,419,13403
-01/10/2017,Shree Investment Finance Company Limited,SIFC,470,474,470,474,99
-01/10/2017,Shrijana Finance Limited,SFFIL,555,566,555,566,20
-01/10/2017,Siddhartha Bank Limited,SBL,427,432,426,428,2765
-01/10/2017,Siddhartha Equity Oriented Scheme,SEOS,11.85,11.9,11.74,11.74,61700
-01/10/2017,Siddhartha Insurance Limited,SIL,1480,1500,1470,1486,2618
-01/10/2017,Siddhartha Investment Growth Scheme-1,SIGS1,21,21.23,20.5,20.5,42400
-01/10/2017,Sindhu Bikas Bank Limited,SINDU,185,190,185,190,1083
-01/10/2017,Soaltee Hotel Limited,SHL,358,358,358,358,500
-01/10/2017,Standard Chartered Bank Limited,SCB,2191,2197,2187,2194,5059
-01/10/2017,Summit Micro Finance Development Bank Limited,SMFDB,2114,2114,2070,2070,355
-01/10/2017,Sunrise Bank Limited,SRBL,325,333,318,320,20423
-01/10/2017,Surya Life Insurance Company Limited,SLICL,950,970,950,970,3225
-01/10/2017,Swabalamwan Bikash Bank Limited,SWBBL,1750,1773,1749,1750,878
-01/10/2017,Swarojgar Laghu Bitta Bikas Bank Limited,SLBBL,2361,2380,2350,2380,1077
-01/10/2017,Synergy Finance Limited,SYFL,152,155,149,151,5740
-01/10/2017,Synergy Power Development Limited,SPDL,170,170,161,162,130
-01/10/2017,Taragaon Regency Hotel Limited,TRH,281,281,276,276,270
-01/10/2017,Tinau Development Bank Limited,TNBL,276,280,276,280,137
-01/10/2017,United Insurance Company (Nepal) Limited,UIC,1300,1305,1295,1295,3440
-01/10/2017,United Modi Hydropower Limited,UMHL,262,270,262,270,398
-01/10/2017,Vijaya Laghubitta Bittiya Sanstha Limited,VLBS,1345,1349,1300,1300,1095
-01/10/2017,Womi Microfinance Bittiya Sanstha Limited,WOMI,1920,1928,1895,1928,48
-01/10/2017,World Merchant Banking & Finance Limited,WMBF,138,138,138,138,10
+02/10/2017,Agricultural Development Bank Limited,ADBL,446,449,443,448,5132
+02/10/2017,Api Power Company Limited,API,574,579,567,570,1039
+02/10/2017,Arun Finance Limited,ARUN,170,170,170,170,10
+02/10/2017,Arun Kabeli Power Limited,AKPL,340,341,330,340,3344
+02/10/2017,Arun Valley Hydropower Development Company Limited,AHPC,220,220,220,220,50
+02/10/2017,Asian Life Insurance Company Limited,ALICL,1500,1505,1498,1505,2383
+02/10/2017,Bank of Kathmandu Limited,BOKL,443,443,433,434,12120
+02/10/2017,Barun Hydropower Company Limited,BARUN,217,233,217,222,1633
+02/10/2017,Bhargav Bikash Bank Limited,BHBL,276,276,272,272,1080
+02/10/2017,Bishal Bazar Company Limited,BBC,2461,2461,2260,2265,1903
+02/10/2017,Bottlers Nepal (Terai) Limited,BNT,6860,6860,6723,6723,155
+02/10/2017,Butwal Power Company Limited,BPCL,624,624,620,620,595
+02/10/2017,Central Finance Company Limited,CFCL,190,190,187,187,1750
+02/10/2017,Century Commercial Bank Limited,CCBL,229,231,225,227,17968
+02/10/2017,Chhimek Laghubitta Bikas Bank Limited,CBBL,1467,1474,1467,1472,252
+02/10/2017,Chhyangdi Hydropower Company Limited,CHL,169,179,169,175,1151
+02/10/2017,Chilime Hydro power Company Limited,CHCL,801,805,790,800,6536
+02/10/2017,Citizen Investment Trust,CIT,3750,3755,3735,3750,1204
+02/10/2017,Citizens Bank International Limited,CZBIL,305,309,304,306,9836
+02/10/2017,Civil Bank Limited,CBL,227,234,227,230,11710
+02/10/2017,Civil Laghubitta Bittiya Sanstha Limited former ILFCM,CLBSL,1301,1308,1275,1297,152
+02/10/2017,Deprosc Laghubitta Bikas Bank Limited,DDBL,1248,1260,1240,1248,2655
+02/10/2017,Deva Bikas Bank Limited,DBBL,255,263,253,263,18524
+02/10/2017,Dibyashwari Hydropower Company Limited,DHPL,145,150,145,147,1409
+02/10/2017,Everest Bank Limited,EBL,1220,1235,1220,1225,5330
+02/10/2017,Everest Insurance Company Limited,EIC,2680,2690,2679,2680,660
+02/10/2017,Excel Development Bank Limited,EDBL,449,460,443,460,5230
+02/10/2017,First Microfinance Development Bank Limited,FMDBL,865,870,858,870,1680
+02/10/2017,Forward Community Microfinance Bittiya Sanstha Limited,FOWAD,3640,3700,3640,3700,864
+02/10/2017,Gandaki Bikas Bank Limited,GDBL,366,371,366,370,2817
+02/10/2017,Garima Bikas Bank Limited,GBBL,260,263,257,261,3137
+02/10/2017,General Finance Limited,GFL,135,138,135,138,670
+02/10/2017,Global IME Bank Limited,GBIME,384,389,379,381,8700
+02/10/2017,Goodwill Finance Company Limited,GFCL,176,180,174,180,3247
+02/10/2017,Guheyshwori Merchant Bank Fin Limited,GMFIL,264,264,259,262,910
+02/10/2017,Guras Life Insurance Company Limited,GLICL,1067,1068,1036,1041,2737
+02/10/2017,Gurkhas Finance Limited,GUFL,191,191,191,191,31
+02/10/2017,Hamro Bikas Bank Limited,HAMRO,200,200,200,200,750
+02/10/2017,Himalayan Bank Limited,HBL,900,900,890,891,308
+02/10/2017,Himalayan General Insurance Company Limited,HGI,730,745,730,735,652
+02/10/2017,Himalayan Power Partner Limited,HPPL,379,393,379,388,7880
+02/10/2017,ICFC Finance Limited,ICFC,266,275,266,270,1468
+02/10/2017,Jalabidyut Lagani Tatha Bikas Company Limited,HIDCL,177,183,177,180,4650
+02/10/2017,Janaki Finance Limited,JFL,274,274,266,271,1110
+02/10/2017,Janata Bank Nepal Limited,JBNL,254,257,250,252,35558
+02/10/2017,Janautthan Samudayic Laghubitta Bikas Bank Limited,JSLBB,3780,3837,3761,3761,66
+02/10/2017,Jyoti Bikas Bank Limited,JBBL,184,187,183,185,16299
+02/10/2017,Kabeli Bikas Bank Limited,KEBL,385,385,385,385,50
+02/10/2017,Kailash Bikas Bank Limited,KBBL,296,300,294,294,2650
+02/10/2017,Kalika Microcredit Development Bank Limited,KMCDB,1984,2000,1971,1995,949
+02/10/2017,Kamana Sewa Bikas Bank Limited,KSBBL,215,218,214,218,10633
+02/10/2017,Kankai Bikas Bank Limited,KNBL,219,227,219,227,220
+02/10/2017,Karnali Development Bank Limited,KRBL,270,274,270,274,582
+02/10/2017,Khani Khola Hydropower Company Limited,KKHC,164,165,161,164,364
+02/10/2017,Kisan Microfinance Bittiya Sanstha Limited,KMFL,2400,2400,2386,2386,50
+02/10/2017,Kumari Bank Limited,KBL,299,299,294,297,13289
+02/10/2017,Laxmi Bank Limited,LBL,341,341,335,339,2374
+02/10/2017,Laxmi Equity Fund,LEMF,9.92,9.92,9.92,9.92,1500
+02/10/2017,Laxmi Laghubitta Bittiya Sanstha Limited,LLBS,1700,1700,1666,1694,83
+02/10/2017,Laxmi Value Fund-1,LVF1,11.5,11.5,11.27,11.27,25000
+02/10/2017,Life Insurance Company Nepal Limited,LICN,2100,2105,2088,2088,4660
+02/10/2017,Lumbini Bikas Bank Limited,LBBL,210,215,210,212,2972
+02/10/2017,Lumbini General Insurance Limited,LGIL,915,935,910,935,872
+02/10/2017,Machhapuchchhre Bank Limited,MBL,330,330,322,324,4908
+02/10/2017,Mahalaxmi Bikas Bank Limited,MLBL,222,227,222,224,8594
+02/10/2017,Mahila Sahayatra Microfinance Bittiya Sanstha Limited,MSMBS,1112,1114,1093,1094,309
+02/10/2017,Manjushree Finance Limited,MFIL,147,152,147,151,3150
+02/10/2017,Mero Microfinance Bittiya Sanstha Limited,MERO,1710,1719,1676,1719,4029
+02/10/2017,Mirmire Microfinance Development Bank Limited,MMFDB,3000,3050,3000,3050,364
+02/10/2017,Miteri Development Bank Limited,MDB,555,555,541,541,548
+02/10/2017,Mithila Laghu Bitta Bikas Bank Limited,MLBBL,1295,1295,1261,1261,100
+02/10/2017,Muktinath Bikas Bank Limited,MNBBL,615,615,608,614,1491
+02/10/2017,Nabil Bank Limited,NABIL,1265,1265,1251,1264,6134
+02/10/2017,NABIL Bank Limited Promotor Share,NABILP,889,889,868,868,5383
+02/10/2017,Nabil Equity Fund,NEF,10.16,10.2,10.16,10.2,965
+02/10/2017,Nagbeli Microfinance Development Bank Limited,NBBL,3820,3865,3800,3865,1279
+02/10/2017,National Hydro Power Company Limited,NHPC,133,134,132,132,1990
+02/10/2017,National Life Insurance Company Limited,NLICL,1792,1825,1792,1825,1541
+02/10/2017,National Microfinance Bittiya Sanstha Limited,NMFBS,3350,3350,3349,3350,62
+02/10/2017,Naya Nepal Laghubitta Bikas Bank Limited ,NNLB,2798,2798,2735,2735,190
+02/10/2017,Neco Insurance Company Limited,NIL,939,940,925,931,1649
+02/10/2017,Nepal Bangladesh Bank Limited,NBB,330,335,329,331,23569
+02/10/2017,Nepal Bank Limited,NBL,352,356,352,354,10069
+02/10/2017,Nepal Community Development Bank Limited,NCDB,314,316,300,316,3750
+02/10/2017,Nepal Credit & Commercial Bank Limited,NCCB,358,358,349,353,5313
+02/10/2017,Nepal Doorsanchar Company Limited,NTC,710,715,710,715,1570
+02/10/2017,Nepal Grameen Bikas Bank Limited,NGBBL,705,719,705,706,1648
+02/10/2017,Nepal Insurance Company Limited,NICL,1390,1390,1380,1384,140
+02/10/2017,Nepal Investment Bank Limited,NIB,758,765,757,764,42483
+02/10/2017,Nepal Investment Bank Limited Promoter Share,NIBPO,663,674,663,674,11530
+02/10/2017,Nepal Life Insurance Company Limited,NLIC,2000,2005,1995,2000,6128
+02/10/2017,Nepal SBI Bank Limited,SBI,850,854,847,854,2505
+02/10/2017,Nerude Laghubita Bikas Bank Limited,NLBBL,1310,1324,1310,1310,1107
+02/10/2017,Ngadi Group Power Limited,NGPL,228,239,228,237,130
+02/10/2017,NIBL Pragati Fund,NIBLPF,10.01,10.01,10.01,10.01,5050
+02/10/2017,NIBL Samriddhi Fund 1,NIBSF1,12.25,12.25,12,12,3000
+02/10/2017,NIC Asia Bank Limited,NICA,360,360,354,357,5974
+02/10/2017,Nirdhan Utthan Bank Limited,NUBL,2410,2420,2410,2420,1206
+02/10/2017,NLG Insurance Company Limited,NLG,1531,1570,1505,1505,1261
+02/10/2017,NMB Bank Limited,NMB,494,494,482,494,3008
+02/10/2017,NMB Hybrid Fund L- 1,NMBHF1,10.04,10.04,10.04,10.04,3328
+02/10/2017,NMB Microfinance Bittiya Sanstha Limited,NMBMF,2780,2817,2757,2757,359
+02/10/2017,NMB Sulav Investment Fund-1,NMBSF1,12.19,12.29,12,12.29,77000
+02/10/2017,Om Development Bank Limited,ODBL,300,302,299,300,2101
+02/10/2017,Oriental Hotel Limited,OHL,873,873,856,856,167
+02/10/2017,Pokhara Finance Limited,PFL,233,233,230,230,91
+02/10/2017,Prabhu Bank Limited,PRVU,383,390,380,385,5625
+02/10/2017,Prabhu Insurance Company Limited,PRIN,1126,1144,1126,1144,2716
+02/10/2017,Premier Insurance Company Limited,PIC,1665,1665,1665,1665,19
+02/10/2017,Prime Commercial Bank Limited,PCBL,440,440,431,434,18974
+02/10/2017,Prime Life Insurance Company Limited,PLIC,1890,1900,1875,1880,1380
+02/10/2017,Progressive Finance Limited,PROFL,232,232,226,226,655
+02/10/2017,Prudential Insurance Company Limited,PICL,1445,1445,1425,1443,1790
+02/10/2017,Purnima Bikas Bank Limited,PURBL,310,312,310,310,648
+02/10/2017,Rastriya Beema Company Limited,RBCL,15950,15950,15850,15850,30
+02/10/2017,Rastriya Beema Company Limited Promoter Share,RBCLPO,14700,14788,14200,14200,135
+02/10/2017,Reliable Microfinance Bittiya Sanstha Limited,RMFL,2120,2120,2067,2067,249
+02/10/2017,Reliance Finance Limited,RLFL,209,213,209,210,709
+02/10/2017,Ridi Hydropower Development Company Limited,RHPC,164,164,158,163,2045
+02/10/2017,RSDC Laghubitta Bittiya Sanstha Limited,RSDC,1340,1364,1340,1349,960
+02/10/2017,Rural Microfinance Development Centre Limited,RMDC,790,790,781,790,606
+02/10/2017,Sagarmatha Insurance Company Limited,SIC,1685,1689,1657,1657,630
+02/10/2017,Sahayogi Vikas Bank Limited,SBBLJ,320,320,320,320,150
+02/10/2017,Sana Kisan Bikas Bank Limited,SKBBL,1555,1565,1550,1565,1828
+02/10/2017,Sanima Bank Limited,SANIMA,346,350,342,342,14099
+02/10/2017,Sanima Mai Hydropower Limited,SHPC,554,554,525,525,2150
+02/10/2017,Saptakoshi Development Bank Limited,SKDBL,189,193,189,193,126
+02/10/2017,Shangrila Development Bank Limited,SADBL,371,375,371,371,1638
+02/10/2017,Shikhar Insurance Company Limited,SICL,2010,2020,1985,1999,4186
+02/10/2017,Shine Resunga Development Bank Limited,SHINE,415,420,414,419,13403
+02/10/2017,Shree Investment Finance Company Limited,SIFC,470,474,470,474,99
+02/10/2017,Shrijana Finance Limited,SFFIL,555,566,555,566,20
+02/10/2017,Siddhartha Bank Limited,SBL,427,432,426,428,2765
+02/10/2017,Siddhartha Equity Oriented Scheme,SEOS,11.85,11.9,11.74,11.74,61700
+02/10/2017,Siddhartha Insurance Limited,SIL,1480,1500,1470,1486,2618
+02/10/2017,Siddhartha Investment Growth Scheme-1,SIGS1,21,21.23,20.5,20.5,42400
+02/10/2017,Sindhu Bikas Bank Limited,SINDU,185,190,185,190,1083
+02/10/2017,Soaltee Hotel Limited,SHL,358,358,358,358,500
+02/10/2017,Standard Chartered Bank Limited,SCB,2191,2197,2187,2194,5059
+02/10/2017,Summit Micro Finance Development Bank Limited,SMFDB,2114,2114,2070,2070,355
+02/10/2017,Sunrise Bank Limited,SRBL,325,333,318,320,20423
+02/10/2017,Surya Life Insurance Company Limited,SLICL,950,970,950,970,3225
+02/10/2017,Swabalamwan Bikash Bank Limited,SWBBL,1750,1773,1749,1750,878
+02/10/2017,Swarojgar Laghu Bitta Bikas Bank Limited,SLBBL,2361,2380,2350,2380,1077
+02/10/2017,Synergy Finance Limited,SYFL,152,155,149,151,5740
+02/10/2017,Synergy Power Development Limited,SPDL,170,170,161,162,130
+02/10/2017,Taragaon Regency Hotel Limited,TRH,281,281,276,276,270
+02/10/2017,Tinau Development Bank Limited,TNBL,276,280,276,280,137
+02/10/2017,United Insurance Company (Nepal) Limited,UIC,1300,1305,1295,1295,3440
+02/10/2017,United Modi Hydropower Limited,UMHL,262,270,262,270,398
+02/10/2017,Vijaya Laghubitta Bittiya Sanstha Limited,VLBS,1345,1349,1300,1300,1095
+02/10/2017,Womi Microfinance Bittiya Sanstha Limited,WOMI,1920,1928,1895,1928,48
+02/10/2017,World Merchant Banking & Finance Limited,WMBF,138,138,138,138,10

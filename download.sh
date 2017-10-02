@@ -4,7 +4,7 @@
 ################################################################
 
 ## Set the temporary directory to keep downloaded file
-DEST_DIR=/R/workspace/shares/temp
+DEST_DIR=$HOME/shares/temp
 
 ## Function to handle exception and errors while running the script
 errorReport(){
@@ -28,6 +28,13 @@ cd $DEST_DIR
 
 ## Remove all the contents from the temporary directory
 rm -f *
+
+echo " "
+echo "##############################"
+echo "  Downloading Data from WEB   "
+echo "##############################"
+echo " "
+
 
 ## Download the pricelist file from web
 curl "http://www.sharesansar.com/c/tod/today-share-price.html" >> todayprice.html
@@ -65,7 +72,7 @@ BEGIN
         select count(*) into tblOut from dba_tables where table_name='SHARESANSAR';
         IF tblOut <= 0 THEN
                 tableStmt:='CREATE TABLE SHARESANSAR (
-		P_DATE DATE DEFAULT SYSDATE, 
+		P_DATE VARCHAR2(15), 
 		C_NAME VARCHAR2(100), 
 		C_SYMBOL VARCHAR2(15), 
 		OPEN_PRICE VARCHAR2(10), 
@@ -79,3 +86,32 @@ BEGIN
 END;
 /
 EOF
+
+createDB(){
+${1}/bin/sqlplus -s /nolog << __EOF__ > /dev/null 2>&1
+conn stock/stock@//192.168.179.113:1521/nsdb
+set pagesize 0 feedback off verify off echo off;
+$createShareTable
+__EOF__
+}
+
+##
+## Create the database
+##
+createDB $ORACLE_HOME
+
+echo " "
+echo "##############################"
+echo "   Loading Data in Database   "
+echo "##############################"
+
+##
+## Append the rows in the table from flat file to database
+##
+sqlldr stock/stock@//192.168.179.113:1521/nsdb control=/home/oracle/shares/sqlldr.ctl silent=all
+
+#echo -e "\n"
+echo "##############################"
+echo "     Operation Complted       "
+echo "##############################"
+echo " "
